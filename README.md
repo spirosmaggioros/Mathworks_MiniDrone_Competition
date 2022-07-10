@@ -1,2 +1,2 @@
 # Mathworks_MiniDrone_Competition
-by Efthymios
+by Efthymios and Spiros
